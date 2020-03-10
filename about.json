@@ -1,0 +1,6 @@
+{
+  "name": "Post Views Counter",
+  "about_url": "https://github.com/muhlisbc/discourse-post-views-counter-theme",
+  "license_url": "https://raw.githubusercontent.com/muhlisbc/discourse-post-views-counter-theme/master/LICENSE",
+  "component": true
+}
